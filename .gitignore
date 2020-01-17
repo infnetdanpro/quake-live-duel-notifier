@@ -1,0 +1,10 @@
+__pycache__/
+__pycache__
+build/
+build
+dist/
+dist
+venv/
+venv
+*.spec
+.idea
