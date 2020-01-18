@@ -1,0 +1,2 @@
+duel-notifier.exe 76561198417959518
+pause
